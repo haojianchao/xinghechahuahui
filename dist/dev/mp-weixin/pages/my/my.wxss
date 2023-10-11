@@ -1,0 +1,9 @@
+/* uni.scss */
+.my_page.data-v-d3687551 {
+  padding: 20px 50px;
+}
+.my_avatar.data-v-d3687551 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}

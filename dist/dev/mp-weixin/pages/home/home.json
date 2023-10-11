@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "星河茶话会",
+  "usingComponents": {
+    "u-swiper": "../../node-modules/uview-plus/components/u-swiper/u-swiper",
+    "u-tabs": "../../node-modules/uview-plus/components/u-tabs/u-tabs",
+    "up-image": "../../node-modules/uview-plus/components/u-image/u-image",
+    "up-text": "../../node-modules/uview-plus/components/u-text/u-text",
+    "up-album": "../../node-modules/uview-plus/components/u-album/u-album",
+    "u-button": "../../node-modules/uview-plus/components/u-button/u-button",
+    "u-list-item": "../../node-modules/uview-plus/components/u-list-item/u-list-item",
+    "u-list": "../../node-modules/uview-plus/components/u-list/u-list"
+  }
+}

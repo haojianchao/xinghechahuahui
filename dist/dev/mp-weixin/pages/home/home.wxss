@@ -1,0 +1,21 @@
+/* uni.scss */
+.list_item.data-v-0cd09a48 {
+  padding: 10px 12px;
+  display: flex;
+}
+.list_item .list_item_avatar.data-v-0cd09a48 {
+  margin-top: 6px;
+}
+.list_item .list_item_cont.data-v-0cd09a48 {
+  margin-left: 12px;
+}
+.list_item .list_item_btn.data-v-0cd09a48 {
+  display: flex;
+  margin-top: 12px;
+}
+.list_item .list_item_btn ._btn.data-v-0cd09a48 {
+  width: 35%;
+}
+.list_item .list_item_btn ._btn.data-v-0cd09a48:first-child {
+  margin-right: 20px;
+}
